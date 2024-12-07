@@ -1,1 +1,6 @@
-rdtfygh
+#include <stdio.h>
+using namespace std;
+int main(){
+    // rdtfygh
+    return 0;
+}
